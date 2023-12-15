@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Sans+Bengali:wght@500&family=Oswald:wght@400;700&family=Poppins:ital,wght@1,700&display=swap');
+* {
+    margin: -10px;
+    padding: 10px;
+}
+
+.who {
+    text-align: center;
+    font: bold;
+}
+
+.my-1, .my-2, .my-3, .my-4, .my-5 {
+    margin-top: 0;
+    color: #fff;
+    margin-bottom: 1rem;
+    text-indent: 50px;
+    text-align: justify;
+    box-sizing: border-box;
+    display: flex;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.container {
+    background-color: rgb(131, 138, 138);
+}
